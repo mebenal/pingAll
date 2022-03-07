@@ -1,0 +1,16 @@
+C:\Users\Michael\source\repos\Ping\Ping\bin\Debug\net5.0\Ping.exe
+C:\Users\Michael\source\repos\Ping\Ping\bin\Debug\net5.0\Ping.deps.json
+C:\Users\Michael\source\repos\Ping\Ping\bin\Debug\net5.0\Ping.runtimeconfig.json
+C:\Users\Michael\source\repos\Ping\Ping\bin\Debug\net5.0\Ping.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Ping\Ping\bin\Debug\net5.0\Ping.dll
+C:\Users\Michael\source\repos\Ping\Ping\bin\Debug\net5.0\ref\Ping.dll
+C:\Users\Michael\source\repos\Ping\Ping\bin\Debug\net5.0\Ping.pdb
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.dll
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\ref\Ping.dll
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.pdb
+C:\Users\Michael\source\repos\Ping\Ping\obj\Debug\net5.0\Ping.genruntimeconfig.cache

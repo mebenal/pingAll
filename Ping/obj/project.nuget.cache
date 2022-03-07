@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOWKScbCPfr3MpYq2ybPlvH1c672mLe7ayhWC4hX+ANgatZZVq8AGR+nN+sfuZZJDZHTHp92cOyA048YbbDq6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\Ping\\Ping\\Ping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.2\\microsoft.extensions.objectpool.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
